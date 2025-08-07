@@ -1,35 +1,31 @@
-# TryHackMe: Case #B4DM755 – Digital Forensics Challenge
+TryHackMe: Case #B4DM755 – Digital Forensics Challenge
 
-##  Summary
+SUMMARY:
 Case #B4DM755 is a beginner-friendly forensic investigation room on TryHackMe where a user is tasked with uncovering evidence of malware and suspicious activity using FTK Imager.
 
-## 🧰 Tools Used
+TOOL USED 
 - FTK Imager
 - Windows Registry Viewer
 - TryHackMe virtual machine
 - Google Search (for hash and IOC verification)
 
-## 🔍 Key Steps Performed
-1. **Memory Image Acquisition**
-   - Used FTK Imager to inspect a memory dump.
-2. **Registry Inspection**
-   - Explored user activity and startup entries.
-3. **Suspicious Files**
-   - Located malware samples via hash lookup.
-5. **Persistence Check**
-   - Identified files added to autorun locations.
+KEY STEPS PERFORMED 
+1. Memory Image Acquisition: Used FTK Imager to inspect a memory dump.
+2. Registry Inspection: Explored user activity and startup entries.
+3. Suspicious Files: Located malware samples via hash lookup.
+5. Persistence Check: Identified files added to autorun locations.
 
-## 🧠 Sample Questions Solved
-- **What was the suspicious process?**  
-  > `notepad++.exe` running from an unusual directory
+SAMPLE QUESTION SOLVED 
+What was the suspicious process?
+  `notepad++.exe` running from an unusual directory
 
-- **What site hosted the malicious payload?**  
-  > `evilwebsite.ru`
+What site hosted the malicious payload? 
+  `evilwebsite.ru`
 
-- **What was the hash of the payload?**  
-  > `5f4dcc3b5aa765d61d8327deb882cf99`
+What was the hash of the payload?
+  `5f4dcc3b5aa765d61d8327deb882cf99`
 
-## 🧠 What I Learned
+WHAT I LEARNED 
 - Digital Forensics process; pre and post authorisation.
 - Process for establishing a chain od custody.
 - Cybersecurity Frameworks using in digital forensics: Identify, protect, detect, response and recover.
