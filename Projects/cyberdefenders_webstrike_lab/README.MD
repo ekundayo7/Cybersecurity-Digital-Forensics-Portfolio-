@@ -12,6 +12,7 @@ Tools Used:
 
 Sample question answered : 
 1. identify the origin of the attack? 
+
     'Tianjin'
 2. What is the name of the successfully uploaded file?  
     'image.jpg.php'
@@ -27,9 +28,13 @@ Key Steps Taken:
 5. Check for data exhiltration and identify which data was exhiltrated.
 
 What I Learned:
+
 . Packet Capture (PCAP) analysis
+
 . I reinforced the importance of reviewing HHTP traffic and GET/POST methods in PCAP files.
+
 . Learnt how to track web shells with persistent access via url patterns.
+
 . I understood the need to always pay attention to details.
 
 
