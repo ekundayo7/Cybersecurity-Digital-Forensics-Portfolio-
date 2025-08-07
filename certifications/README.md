@@ -6,3 +6,5 @@ These are the certificates I’ve earned so far:
 - TryHackMe Digital Forensics Case #B4DM755 – July 2025
 - Cybrary Log Analysis Basics – July 10, 2025
 - Cybary SIEM Basics - July, 2025
+
+Pdfs are available below.
