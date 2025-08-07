@@ -17,5 +17,5 @@ Welcome to my portfolio. I am passionate about cybersecurity most especially dig
  Projects
 - [PCAP Forensics 101 – CyberDefenders](#)
 - [Log Keyword Scanner in Python](#)
-- [Introduction to Digital Forensics Case #B4DM755 - TryHackMe].
+- [Introduction to Digital Forensics Case #B4DM755 - TryHackMe](#).
 - More coming soon...
