@@ -12,18 +12,8 @@ TOOL USED
 KEY STEPS PERFORMED 
 1. Memory Image Acquisition: Used FTK Imager to inspect a memory dump.
 2. Registry Inspection: Explored user activity and startup entries.
-3. Suspicious Files: Located malware samples via hash lookup.
+3. File Recovery: Recovered deleted and encrypted files containing evidences.
 5. Persistence Check: Identified files added to autorun locations.
-
-SAMPLE QUESTION SOLVED 
-What was the suspicious process?
-  `notepad++.exe` running from an unusual directory
-
-What site hosted the malicious payload? 
-  `evilwebsite.ru`
-
-What was the hash of the payload?
-  `5f4dcc3b5aa765d61d8327deb882cf99`
 
 WHAT I LEARNED 
 - Digital Forensics process; pre and post authorisation.
